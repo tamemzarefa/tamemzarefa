@@ -24,13 +24,13 @@ I'm a **Laravel Back-end Developer** with a passion for building clean, maintain
 ![REST API](https://img.shields.io/badge/-REST_API-4CAF50?style=flat-square)
 
 **Frontend & Tools:**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 ![Blade](https://img.shields.io/badge/-Blade-FF2D20?style=flat-square)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/-PhpStorm-000000?style=flat-square&logo=phpstorm&logoColor=white)
+![Herd](https://img.shields.io/badge/-Laravel_Herd-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
 
 ---
 
